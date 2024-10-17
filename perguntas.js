@@ -1,7 +1,7 @@
 criaCartao(
     'Química',
     'Qual é a fórmula estrutural do Etanol?',
-    'H3C-ch3'
+    'h3c-ch3'
 )
 
 criaCartao(
@@ -11,24 +11,24 @@ criaCartao(
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'química',
+    'Uma ligação simples é representado por?',
+    'AN'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Química',
+    'Qual é o sufixo de Àlcool',
+    'OL'
 )
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Química',
+    'Como é nomeado o prefixo de 9 carbonos?',
+    'NON'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Química',
+    'De que são formados exclusivamente os hidrocarbonetos?',
+    'Carbono (c) e Hidrogenio (h)'
 )
