@@ -1,13 +1,13 @@
 criaCartao(
-    'Programação',
-    'O que é um sapo?',
-    'O Python é uma linguagem de programação'
+    'Química',
+    'Qual é a fórmula estrutural do Etanol?',
+    'H3C-ch3'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'química',
+    'UNDEC é o prefixo de quantos carbonos?',
+    '11'
 )
 
 criaCartao(
